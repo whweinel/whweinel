@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 <hr>
 <h3>🛠️ Skills</h3>
 <h4>Languages</h4>
-PHP Java JavaScript Python
-
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" style="max-width: 100%;"></a> 
+<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=oracle&logoColor=blue" style="max-width: 100%;"></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" style="max-width: 100%;"> </a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="max-width: 100%;"></a>
 
 <h4>Web Development</h4>
 HTML CSS Bootstrap jQuery AJAX MySQL WordPress Plugin Management
@@ -39,4 +41,5 @@ AMD Ryzen 5-2400G MSI R7 250 Pop!_OS <br>
 Pentium Dual Core Ubuntu
 
 <h3>🔗 Links</h3>
-<a href="https://www.linkedin.com/in/whweinel/" target="_blank">![linkedin](https://user-images.githubusercontent.com/64539131/188513004-3a509dab-749d-4e6e-b94e-a011027d581d.svg)</a>
+<a href="https://www.linkedin.com/in/whweinel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/whweinel"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" style="max-width: 100%;"></a>
