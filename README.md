@@ -32,10 +32,17 @@ Here are some ideas to get you started:
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="max-width: 100%;"></a>
 
 <h4>Web Development</h4>
-HTML CSS Bootstrap jQuery AJAX MySQL WordPress Plugin Management
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.w3.org/TR/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://en.wikipedia.org/wiki/Ajax_(programming)"><img src="https://img.shields.io/badge/AJAX-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" style="max-width: 100%;"> </a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="max-width: 100%;"> </a>
+<a href="https://wordpress.com/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white" style="max-width: 100%;"> </a>
 
 <h4>Design Tools</h4>
-Adobe Creative Suite
+<a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://img.shields.io/badge/AdobeDreamweaver-FF61F6?style=for-the-badge&logo=AdobeDreamweaver&logoColor=white" style="max-width: 100%;"> </a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" style="max-width: 100%;"> </a>
 
 ## 🖥️ Workspace Setups
 
