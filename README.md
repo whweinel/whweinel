@@ -43,10 +43,12 @@ Here are some ideas to get you started:
 <h4>Design Tools</h4>
 <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://img.shields.io/badge/AdobeDreamweaver-FF61F6?style=for-the-badge&logo=AdobeDreamweaver&logoColor=white" style="max-width: 100%;"> </a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" style="max-width: 100%;"> </a>
+<a href="https://www.adobe.com/products/indesign.html"><img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=for-the-badge&logo=AdobeInDesign&logoColor=white" style="max-width: 100%;"> </a>
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/AdobePremierePro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white" style="max-width: 100%;"> </a>
 
 ## 🖥️ Workspace Setups
 
-AMD FX-6300 ZOTAC GeForce GTX 980 Windows <br>
+AMD FX-6300 ZOTAC GeForce GTX 980 Windows 10<br>
 AMD Ryzen 5-2400G MSI R7 250 Pop!_OS <br>
 Pentium Dual Core Ubuntu
 
