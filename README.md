@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Will 👋
 
 <!--
 **whweinel/whweinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-c6412d0f906280e338d044df750d6509-lq" height="35%" width="35%" />
 
 ## 🚀 About Me
 
-🎓 My name is Will Weinel and I am a Web Developer who specializes in PHP, MySQL, HTML/CSS, and Linux. I graduated from college in 2014 majoring in Computer Science where I took courses on Java, Python, Natural Language Processing, Computer Networks, and Database Design.
+🎓 I am a Web Developer who specializes in WordPress and writing custom code. I graduated from college in 2014 majoring in Computer Science where I took courses on Java, Python, Natural Language Processing, Computer Networks, and Database Design.
 
-👨‍💻 I enjoy reading up on Open Source Projects and am always on YouTube learning about the latest in new technology and PC building.  
+👨‍💻 I enjoy reading up on Open Source Projects and I am always on YouTube learning about the latest in new technology and PC building.
 
-🎹 Outside the world of tech, I enjoy pushing myself to develop new skills. This year I have started to learn piano which has always been a dream of mine. I can play Fur Elise by Mozart and Moonlight Sonata by Beethoven. Maybe one day I will be able to play Fantaisie Impromptu.
+🎹 Outside the world of tech, I enjoy pushing myself to develop new skills. Last year I taught myself how to play piano. I can play Fur Elise by Mozart, Moonlight Sonata by Beethoven, and a Nocturne by Chopin. Maybe one day I will be able to play Fantaisie Impromptu.
+
+📽 I run a small YouTube channel the focuses on the latest tech and gaming news.
 
 ## 🛠️ Skills
 
@@ -46,6 +49,11 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/products/indesign.html"><img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=for-the-badge&logo=AdobeInDesign&logoColor=white" style="max-width: 100%;"> </a>
 <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/AdobePremierePro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white" style="max-width: 100%;"> </a>
 
+## 🔗 Find Me Here
+
+<a href="https://www.linkedin.com/in/whweinel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/whweinel"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" style="max-width: 100%;"></a>
+
 ## 🖥️ Workspace Setups
 
 AMD FX-6300 ZOTAC GeForce GTX 980 Windows 10<br>
@@ -58,8 +66,3 @@ Pentium Dual Core Ubuntu
     <img src="https://github-profile-trophy.vercel.app/?username=whweinel&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=whweinel&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
 </div>
-
-## 🔗 Links
-
-<a href="https://www.linkedin.com/in/whweinel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/whweinel"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" style="max-width: 100%;"></a>
