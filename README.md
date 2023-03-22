@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 ## 🖥️ Workspace Setups
 
-AMD FX-6300 ZOTAC GeForce GTX 980 Windows 10<br>
-AMD Ryzen 5-2400G MSI R7 250 Pop!_OS <br>
+AMD Ryzen 7 1700 ZOTAC GeForce GTX 980 Windows 10<br>
+AMD Ryzen 5 2400G MSI R7 250 Pop!_OS <br>
 Pentium Dual Core Ubuntu
 
 ## 📈 Stats
